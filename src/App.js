@@ -40,8 +40,8 @@ const App = () => {
     <BrowserRouter>
       <Routes>
         <Route
-          index
-          elements={
+          path="/"
+          element={
             <div>
               <section id="goal-form">
                 <CourseInput onAddGoal={addGoalHandler} />

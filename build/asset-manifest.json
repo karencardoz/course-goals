@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/karencardoz/course-goals/static/css/main.f3229784.css",
-    "main.js": "/karencardoz/course-goals/static/js/main.29f36846.js",
+    "main.js": "/karencardoz/course-goals/static/js/main.2f659b16.js",
     "index.html": "/karencardoz/course-goals/index.html",
     "main.f3229784.css.map": "/karencardoz/course-goals/static/css/main.f3229784.css.map",
-    "main.29f36846.js.map": "/karencardoz/course-goals/static/js/main.29f36846.js.map"
+    "main.2f659b16.js.map": "/karencardoz/course-goals/static/js/main.2f659b16.js.map"
   },
   "entrypoints": [
     "static/css/main.f3229784.css",
-    "static/js/main.29f36846.js"
+    "static/js/main.2f659b16.js"
   ]
 }
